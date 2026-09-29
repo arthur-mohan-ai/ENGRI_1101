@@ -10,6 +10,7 @@ Taught by the aloha shirt lover prof. Frans Schalekamp.
 | `dijkstra.py` | Dijkstra (single-source shortest path) | Each node being "settled", then the final shortest path in red |
 | `tsp.py` | Traveling Salesman (exact brute force) | Every candidate tour, tracking the best one found so far |
 | `mst.py` | Minimum Spanning Tree (Prim's) | The tree growing edge by edge |
+| To be continued ...|
 
 ## Notes
 
