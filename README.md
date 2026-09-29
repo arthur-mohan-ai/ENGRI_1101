@@ -1,6 +1,6 @@
 # Visualizations of algos of Cornell ENGRI 1101 Eng Ops: Data and Decisions
 
-.[Taught by the aloha shirt lover prof. Frans Schalekamp](https://fransschalekamp.com/research/)
+Taught by the aloha shirt lover prof. [Frans Schalekamp](https://fransschalekamp.com/research/)
 
 ## What's inside
 
